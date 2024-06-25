@@ -4,7 +4,8 @@
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nigamsarthak/) 
-[![Stack Exchange](https://img.shields.io/stackexchange/:stackexchangesite/t/)](https://stackoverflow.com/users/25712816/sarthak)
+[![Stack Overflow](https://cdn.sstatic.net/Sites/stackoverflow/company/img/logos/so/so-icon.png)](https://stackoverflow.com/users/25712816/sarthak)
+
 
 
 # 💻 Tech Stack:
