@@ -3,8 +3,8 @@
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nigamsarthak/) <br>
-[![Stack Exchange questions](https://img.shields.io/stackexchange/:stackexchangesite/t/:query)](https://stackoverflow.com/users/25712816/sarthak)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nigamsarthak/) 
+[![Stack Exchange questions](https://img.shields.io/stackexchange/:stackexchangesite/)](https://stackoverflow.com/users/25712816/sarthak)
 
 
 # 💻 Tech Stack:
