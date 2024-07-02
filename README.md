@@ -10,10 +10,11 @@
 [![My Website](https://img.shields.io/badge/Website-000000?logo=edge&logoColor=white)](https://sarthaknigam.me)
 
 
-
-
 # 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+
+
+![Snake animation](https://raw.githubusercontent.com/{sarthak-nigam}/{sarthak-nigam}/output/github-contribution-grid-snake-dark.svg)
 
 
 # 📊 GitHub Stats:
