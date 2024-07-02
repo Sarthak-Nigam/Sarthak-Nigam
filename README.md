@@ -7,7 +7,7 @@
 [![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-F58025?logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/25712816/sarthak) 
 [![Twitter](https://img.shields.io/badge/X-1DA1F2?logo=twitter&logoColor=white)](https://twitter.com/SarthakNX)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/_sarthaknigam_)
-[![My Website](https://img.shields.io/badge/Website-000000?logo=google-chrome&logoColor=white)](https://sarthaknigam.me)
+[![My Website](https://img.shields.io/badge/Website-000000?logo=sarthaknigam&logoColor=white)](https://sarthaknigam.me)
 
 
 
