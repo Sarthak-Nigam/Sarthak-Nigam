@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on<br>👯 I’m looking forward to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning JAVA.<br>💬 Ask me about<br>⚡ Fun fact:<br>&ensp;&ensp;&ensp;I'm Hodophile & a Photography Enthusiast.
+🔭 I’m currently working on Gourmet Guru (mini project)<br>👯 I’m looking forward to collaborate on my project<br>🤝 I’m looking for help with<br>🌱 I’m currently learning JAVA.<br>💬 Ask me about<br>⚡ Fun fact:<br>&ensp;&ensp;&ensp;I'm Hodophile & a Photography Enthusiast.
 
 
 ## 🌐 Socials:
