@@ -8,6 +8,7 @@
 [![Twitter](https://img.shields.io/badge/X-1DA1F2?logo=twitter&logoColor=white)](https://twitter.com/SarthakNX)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/_sarthaknigam_)
 [![My Website](https://img.shields.io/badge/Website-000000?logo=edge&logoColor=white)](https://sarthaknigam.me)
+[Email Me](mailto:sn9434@srmist.edu.in)
 
 
 # 💻 Tech Stack:
