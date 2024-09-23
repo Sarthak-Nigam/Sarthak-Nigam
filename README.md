@@ -1,5 +1,11 @@
 # 💫 About Me:
-🔭 I’m currently working on Gourmet Guru (mini project)<br>👯 I’m looking forward to collaborate on my project<br>🤝 I’m looking for help with<br>🌱 I’m currently learning JAVA.<br>💬 Ask me about<br>⚡ Fun fact:<br>&ensp;&ensp;&ensp;I'm Hodophile & a Photography Enthusiast.
+🔭 I’m currently working on Gourmet Guru (mini project)  <br>
+👯 I’m looking forward to collaborate on my project  <br>
+🤝 I’m looking for help with  <br>
+🌱 I’m currently learning JAVA.  <br>
+💬 Ask me about  <br>
+⚡ Fun fact:  <br>
+&ensp;&ensp;&ensp;I'm Hodophile & a Photography Enthusiast.
 
 
 ## 🌐 Socials:
@@ -13,7 +19,12 @@
 
 
 # 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
+![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) 
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 
 
