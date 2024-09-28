@@ -8,6 +8,11 @@
 &ensp;&ensp;&ensp;I'm Hodophile & a Photography Enthusiast.
 
 
+
+![snake](https://github.com/user-attachments/assets/2f30efc8-58ec-4b6a-82dd-8c55e456c0bb)
+
+
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nigamsarthak/) 
 [![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-F58025?logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/25712816/sarthak) 
