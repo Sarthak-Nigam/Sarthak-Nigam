@@ -1,6 +1,6 @@
 # 💫 About Me:
-🔭 I’m currently working on Gourmet Guru (mini project)  <br>
-👯 I’m looking forward to collaborate on my project  <br>
+🔭 I’m an aspiring Data Analyst  <br>
+👯 I’m looking forward to collaborate on my final year project  <br>
 🤝 I’m looking for help with  <br>
 🌱 I’m currently learning JAVA.  <br>
 💬 Ask me about  <br>
