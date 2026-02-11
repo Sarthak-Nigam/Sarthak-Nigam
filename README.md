@@ -1,6 +1,6 @@
 # 💫 About Me:
 🔭 I’m an aspiring Data Analyst  <br>
-🏢 Currently working as a Network Analyst @HCLTech  <br>
+🏢 Currently working as an Analyst @HCLTech  <br>
 <!--👯 I’m looking forward to collaborate on my final year project  <br> -->
 <!--🤝 I’m looking for help with  <br> -->
 🌱 I’m currently learning JAVA.  <br>
